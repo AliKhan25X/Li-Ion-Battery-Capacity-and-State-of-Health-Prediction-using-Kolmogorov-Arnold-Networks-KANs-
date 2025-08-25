@@ -1,0 +1,2 @@
+# Li-Ion-Battery-Capacity-and-State-of-Health-Prediction-using-Kolmogorov-Arnold-Networks-KANs-
+This project uses NeuralForecast and KAN (Kernel-based Attention Networks) to forecast battery discharge cycles. It processes raw battery data, aggregates capacity per cycle, and trains a model to predict future battery performance. The model is evaluated using metrics like MAE and MSE for prediction accuracy.
